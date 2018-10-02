@@ -1,4 +1,4 @@
--- Revert spidertutorial:product-add-comments from pg
+-- Revert demoapplication:product-add-comments from pg
 
 BEGIN;
 

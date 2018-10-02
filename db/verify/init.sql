@@ -1,4 +1,4 @@
--- Verify spidertutorial:init on pg
+-- Verify demoapplication:init on pg
 
 BEGIN;
 

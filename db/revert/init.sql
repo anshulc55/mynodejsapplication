@@ -1,4 +1,4 @@
--- Revert spidertutorial:init from pg
+-- Revert demoapplication:init from pg
 
 BEGIN;
 

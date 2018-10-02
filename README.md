@@ -1,2 +1,2 @@
-# hapi-rest-demo
-A SpiderTutorial Demo project
+# mynodejsapplication
+A AnshulAWS Code Pipeline Demo NodeJS Application

@@ -1,4 +1,4 @@
--- Deploy spidertutorial:product-add-comments to pg
+-- Deploy demoappliation:product-add-comments to pg
 
 BEGIN;
 
